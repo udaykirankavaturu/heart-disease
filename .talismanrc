@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: Heart+Disease+Prediction.ipynb
+  checksum: b360782f166402973fb5836298111329d0a12a1c70ed2b05772984a02761bd79
+version: ""
